@@ -298,4 +298,4 @@ client.on('message', msg => {
     
 })
 
-client.login('ODQwODAwMDU4MjI4NDczODY3.YJdeEw.Yy6h2U8LrWKvxyRyWTs8vqLWZpU')
+client.login(process.env.token)
